@@ -1,67 +1,61 @@
 {
-  "name": "ÔÄ¶Á3.0ËµÃ÷",
-  "description": "LegadoÏà¹ØËµÃ÷",
+  "name": "é˜…è¯»3.0è¯´æ˜",
+  "description": "Legadoç›¸å…³è¯´æ˜",
   "link": "https://github.com/gedoor/legado",
   "list": [
     {
-      "title": "¡¾ÖØÒª¡¿Covoid19",
-      "url": "https://www.worldometers.info/coronavirus/",
-      "pic": "https://www.worldometers.info/favicon/favicon.ico",
-      "time": "ÊµÊ±¸üĞÂ"
-    },
-    {
-      "title": "¡¾ÖØÒª¡¿°¢Àï½¡¿µÒßÇé¶¯Ì¬",
+      "title": "ã€é‡è¦ã€‘é˜¿é‡Œå¥åº·ç–«æƒ…åŠ¨æ€",
       "url": "https://alihealth.taobao.com/medicalhealth/influenzamap",
       "pic": "https://www.alihealth.cn/images/favicon-128.ico",
-      "time": "ÊµÊ±¸üĞÂ"
+      "time": "å®æ—¶æ›´æ–°"
     },
     {
-      "title": "¡¾±Ø¶Á£¡£¡¡¿¹«¸æ",
+      "title": "ã€å¿…è¯»ï¼ï¼ã€‘å…¬å‘Š",
       "url": "http://alanskycn.gitee.io/vip/about/info.html",
       "pic": "http://wx3.sinaimg.cn/wap720/8fa42897gy1frs1xxp6mrj210z0kuac7.jpg",
-      "time": "2020/3/11?webÔÄ¶ÁÊ¹ÓÃÖ¸ÄÏ"
+      "time": "2020/3/11ãƒ»webé˜…è¯»ä½¿ç”¨æŒ‡å—"
     },
     {
-      "title": "ÔÄ¶Á»ùÓÑ-Òì´ÎÔª",
+      "title": "é˜…è¯»åŸºå‹-å¼‚æ¬¡å…ƒ",
       "url": "https://gitee.com/alanskycn/yuedu/raw/master/JS/RSS/custom/html/other/yiciyuan.html",
       "pic": "https://gitee.com/alanskycn/yuedu/raw/master/JS/yiciyuan.jpg",
       "time": "2020/1/14"
     },
     {
-      "title": "¡¾Q&A¡¿³£¼ûÎÊÌâ",
+      "title": "ã€Q&Aã€‘å¸¸è§é—®é¢˜",
       "url": "https://github.com/gedoor/legado/blob/master/app/src/main/assets/help.md",
       "pic": "http://5b0988e595225.cdn.sohucs.com/images/20180815/ecd7c66885b5459b87a2a0bac115d1f8.jpeg",
       "time": "2019/12/11"
     },
     {
-      "title": "¡¾½Ì³Ì¡¿ÊéÔ´ºÍ¶©ÔÄÔ´¹æÔò½éÉÜ",
+      "title": "ã€æ•™ç¨‹ã€‘ä¹¦æºå’Œè®¢é˜…æºè§„åˆ™ä»‹ç»",
       "url": "https://alanskycn.gitee.io/teachme/index.html",
       "pic": "http://pic.big5.dbw.cn/0/07/63/80/7638083_507980.jpg",
       "time": "2020/09/12"
     },
     {
-      "title": "¡¾×ÊÔ´¡¿Ìæ»»¾»»¯",
+      "title": "ã€èµ„æºã€‘æ›¿æ¢å‡€åŒ–",
       "url": "http://alanskycn.gitee.io/vip/about/replacement.html",
       "pic": "https://tva1.sinaimg.cn/large/9bd9b167gy1g2rleqsqkcj21hc0u0nec.jpg",
-      "time": "2020/2/21?change a rule"
+      "time": "2020/2/21ãƒ»change a rule"
     },
     {
-      "title": "¡¾×ÊÔ´¡¿ÓĞÉùÔ´ºÏ¼¯",
+      "title": "ã€èµ„æºã€‘æœ‰å£°æºåˆé›†",
       "url": "http://alanskycn.gitee.io/vip/bk/A1.html",
       "pic": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1838471967,1361007031&fm=26&gp=0.jpg",
-      "time": "2020/03/30?fix"
+      "time": "2020/03/30ãƒ»fix"
     },
     {
-      "title": "¡¾×ÊÔ´¡¿¶©ÔÄÔ´ºÏ¼¯",
+      "title": "ã€èµ„æºã€‘è®¢é˜…æºåˆé›†",
       "url": "http://alanskycn.gitee.io/vip/rss/R1.html",
       "pic": "http://pic.jj20.com//up/allimg/1113/011H0115G3/20011G15G3-1.jpg",
-      "time": "2020/3/18?add a source"
+      "time": "2020/3/18ãƒ»add a source"
     },
     {
-      "title": "¡¾×ÊÔ´¡¿ÊéÔ´ºÏ¼¯",
+      "title": "ã€èµ„æºã€‘ä¹¦æºåˆé›†",
       "url": "http://alanskycn.gitee.io/vip/bk/B1.html",
       "pic": "http://photo.16pic.com/00/33/99/16pic_3399189_b.jpg",
-      "time": "2020/4/13?fix zhaishuyuan"
+      "time": "2020/4/13ãƒ»fix zhaishuyuan"
     }
   ]
 }
